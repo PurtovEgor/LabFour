@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+    
+
+    
+
+    
+<item id="1"><name>Розы</name><price>350</price><descr>Розы красные</descr></item><item id="2"><name>Фикус</name><price>500</price><descr>Фикус обыкновенный</descr></item><item id="3"><name>Кактус</name><price>400</price><descr>Кактус комнатный</descr></item><item id="4"><name>Орхидея</name><price>700</price><descr>Орхидея белая</descr></item></root>
